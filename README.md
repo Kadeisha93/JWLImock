@@ -1,7 +1,7 @@
 # JWLI Mock
-This is an old landing page for the Jpanese Women's Leadership Initiative group. I recreated this page as a test for myself, and to get some more practice with media queries in CSS.
+This is an old landing page for the Japanese Women's Leadership Initiative group. I recreated this page as a test for myself, and to get some more practice with media queries in CSS.
 ## **Link to project:** https://kr-jwlia.netlify.app/
-![jwli](zodiacPic.png)
+![jwli](jwliMock.png)
 
 ## How It's Made:
 **Tech used:** HTML and CSS
